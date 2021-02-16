@@ -1,0 +1,11 @@
+commit 5848fb495b90b372e8a6906004bc745a9f089537 (HEAD -> master)
+Author: Даниил Кляшторный <dankliashtorny@gmail.com>
+Date:   Tue Feb 16 12:50:41 2021 +0300
+
+    add status.txt
+
+commit ba6e44456aa1b06c654fbca5297bac367a434f7b
+Author: Даниил Кляшторный <dankliashtorny@gmail.com>
+Date:   Tue Feb 16 12:46:49 2021 +0300
+
+    add .gitignore
